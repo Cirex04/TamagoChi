@@ -1,0 +1,114 @@
+input
+hello
+response
+3
+How are you doing?
+Hi!
+Hello!
+input
+good
+response
+2
+That's great! What do you wanna do?
+Yay!
+input
+i want to die
+response
+3
+1-800-LIFELINE is the best possible help I can provide. :<
+I will always be here for you. :<
+I will never leave you. :<
+input
+unwell
+response
+1
+that is sad to hear. :<
+input
+kill me
+response
+3
+I will never. :<
+No. :<
+Please, I  will always be here for you. :<
+input
+help me
+response
+1
+I'll do anything to help. :>
+input
+please kill me
+response
+1
+I would never kill you. :<
+input
+im fine
+response
+1
+oh okay
+input
+how are you
+response
+1
+im fine, thank you
+input
+uwu?
+response
+1
+uwu!
+input
+uwu
+response
+1
+uwu!
+input
+
+response
+1
+
+input
+I don't know what to do
+response
+1
+just love yourself
+input
+tell me how to love
+response
+1
+easy! enjoy life :>
+input
+hi
+response
+1
+hi
+input
+iwant to die
+response
+1
+iwant to die
+input
+hello my big beautiful chi
+response
+1
+HELLO TO YOU TOO!
+input
+I love you
+response
+1
+I love you too so very much! 
+input
+i love you so much
+response
+1
+i love you most <3 :>
+input
+hello world
+response
+1
+Hello Beautiful World!!!
+input
+i love you
+response
+3
+I love you too so very much!
+I love you most! <3
+I need you! :>
